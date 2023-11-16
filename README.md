@@ -14,7 +14,7 @@ Head to https://recallai.readme.io/reference/how-to-create-zoom-sdk-credentials 
 
 ### Step 3. Create a Deepgram API token
 
-Deepgram is used in this demo to transcribe meeting audio so we'll need to create an API token
+Deepgram is used in this demo to transcribe meeting audio so we'll need to create an API token and input it [here](https://api.recall.ai/dashboard/platforms/deepgram) in the Recall Dashboard. Instructions for creating a Deepgram API key are [here](https://developers.deepgram.com/docs/authenticating).
 
 ### Step 4. Set up environment variables
 
